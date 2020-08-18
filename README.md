@@ -58,5 +58,5 @@ Los servicios que ofrece Ming son los siguientes:
 ## Supuestos
   - El ejemplar de cada producto comprado puede o no contar con material extra descargable.
   - En el caso que el cliente elimine su cuenta de la tienda, los productos comprados que hayan sido descargados a sus máquinas son propiedad exclusiva del cliente.
-  - El precio de los productos pueden tener rebajas bajo consentimiento de los desarrolladores.
+  - El precio de los juego pueden tener rebajas bajo consentimiento de los desarrolladores.
 

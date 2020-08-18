@@ -48,7 +48,9 @@ La mayoría de tiendas virtuales que existen en la actualidad poseen un sistema 
 
 ## Esquema de la Propuesta
 #### Descripción de los servicios.
+
 Los servicios que ofrece Ming son los siguientes:
+
   * Ofrecer a los desarrolladores un beneficio del 92% por producto vendido.
   * Permitir a los jugadores comprar el juego, pagar por el juego y descargarlo en su propia computadora. 
   * Desarrollar y respaldar el funcionamiento de la aplicación propietaria diseñada.

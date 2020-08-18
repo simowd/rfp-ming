@@ -3,6 +3,9 @@
 #### Descripción de la Industria
 ## Visión General y Línea de Tiempo
 #### Justificación y Objetivos del Proyecto
+
+La mayoría de tiendas virtuales que existen en la actualidad poseen un sistema de dependencia de sus productos con la tienda en general. En resumen, se puede decir que el cliente no compra los productos de estas tiendas por lo que el cliente alquila este producto. El precio de los productos se los puede comparar con sus respectivas versiones en físico el cual es el mismo monto. Sin embargo, en el caso de las versiones físicas,  el adquirirlos supone que el cliente tiene entera propiedad del producto. El proyecto de Ming propone brindar una solución a esta problemática.
+
 ## Miembros del Equipo
 **Nombre:** Avila Flores Juan Carlos  
 **Email:** juan.avila@ucb.edu.bo

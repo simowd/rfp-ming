@@ -1,2 +1,20 @@
-# rpf-ming
-Documentación del posible proyecto de Ingeniería del Software. "Tienda" virtual de venta de videojuegos.
+# MING - Tienda Virtual de Videojuegos
+------
+## Descripción Corporativa 
+------
+#### Descripción de la Industria
+------ 
+## Visión General y Línea de Tiempo
+------
+#### Justificación y Objetivos del Proyecto
+------ 
+## Miembros del Equipo
+------
+## Esquema de la Propuesta
+------
+#### Descripción de los servicios.
+------
+#### Resultados esperados.
+------
+## Supuestos
+------

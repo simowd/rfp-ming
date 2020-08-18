@@ -8,15 +8,16 @@ Nuestros competidores principales son los siguientes:
 
 Principales Competidores:
 
+
   * [Uplay](https://uplay.ubisoft.com/ "Uplay's Homepage").
 
-  * [Steam](https://store.steampowered.com/ “Steam’s Homepage”).
+  * [Steam](https://store.steampowered.com/ "Steam's Homepage").
 
-  * [Origin](https://www.origin.com/mex/en-us/store “Origin’s Homepage”).
+  * [Origin](https://www.origin.com/mex/en-us/store "Origin's Homepage").
 
-  * [EpicGames](https://www.epicgames.com/site/en-US/home “EpicGames Homepage”).
+  * [EpicGames](https://www.epicgames.com/site/en-US/home  "EpicGames's Homepage").
 
-  * [Battle.net](https://www.blizzard.com/en-us/?ref=other  “Blizzard’s Homepage”).
+  * [Battle.net](https://www.blizzard.com/en-us/?ref=other  "Blizzard’s Homepage").
 
 ## Visión General y Línea de Tiempo
 

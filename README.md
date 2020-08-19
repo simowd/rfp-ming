@@ -57,6 +57,12 @@ Los servicios que ofrece Ming son los siguientes:
   * Garantizan una experiencia única con la compra de los videojuegos en el catálogo de Ming.
 
 #### Resultados esperados.
+
+  - Cliente satisfecho con la compra de un producto que le pertenece enteramente a él.
+  - Exposición abundante de la variedad de productos.
+  - Preferencia del proyecto por parte de los clientes ante las otras opciones.
+  - Publicidad por parte de los desarrolladores al momento de publicar un juego.
+
 ## Supuestos
   - El ejemplar de cada producto comprado puede o no contar con material extra descargable.
   - En el caso que el cliente elimine su cuenta de la tienda, los productos comprados que hayan sido descargados a sus máquinas son propiedad exclusiva del cliente.

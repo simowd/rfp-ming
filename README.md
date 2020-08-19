@@ -1,6 +1,17 @@
 # MING - Tienda Virtual de Videojuegos
 ## Descripción Corporativa 
 #### Descripción de la Industria
+
+Siendo Ming una empresa de ventas digitales de videojuegos, una de las principales ventajas es cobrar un porcentaje de 8% de beneficio por cada venta de un ejemplar del videojuego en la tienda online, entonces, al obtener un porcentaje de comisión tan bajo a comparacion de otras tiendas virtuales de videojuegos, se tiene una ventana de oportunidades con las compañías desarrolladoras de videojuegos ya que estas mismas nos darán publicidad  y preferencia al momento de lanzar sus productos. 
+
+Nuestros competidores principales son los siguientes:
+
+Principales Competidores:
+[Uplay](https://uplay.ubisoft.com/ "Uplay's Homepage")
+[Steam](https://store.steampowered.com/ “Steam’s Homepage”)
+[Origin](https://www.origin.com/mex/en-us/store “Origin’s Homepage”)
+[EpicGames](https://www.epicgames.com/site/en-US/home “EpicGames Homepage”)
+[Battle.net](https://www.blizzard.com/en-us/?ref=other  “Blizzard’s Homepage”)
 ## Visión General y Línea de Tiempo
 #### Justificación y Objetivos del Proyecto
 ## Miembros del Equipo

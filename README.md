@@ -1,5 +1,8 @@
 # MING - Tienda Virtual de Videojuegos
 ## Descripción Corporativa 
+
+La compañía se halla compuesta por cinco desarrolladores de software. Cada proyecto de software desarrollado conlleva a una calidad mayor a la exigida por el usuario. La compañía satisface las exigencias de los clientes para una mayor satisfacción de las mismas con el software requerido. La sede de la compañía está ubicada en La Paz - Bolivia.
+
 #### Descripción de la Industria
 
 Siendo Ming una empresa de ventas digitales de videojuegos, una de las principales ventajas es cobrar un porcentaje de 8% de beneficio por cada venta de un ejemplar del videojuego en la tienda online, entonces, al obtener un porcentaje de comisión tan bajo a comparacion de otras tiendas virtuales de videojuegos, se tiene una ventana de oportunidades con las compañías desarrolladoras de videojuegos ya que estas mismas nos darán publicidad  y preferencia al momento de lanzar sus productos. 
@@ -20,6 +23,9 @@ Principales Competidores:
   * [Battle.net](https://www.blizzard.com/en-us/?ref=other  "Blizzard’s Homepage").
 
 ## Visión General y Línea de Tiempo
+
+Se busca el desarrollo de una tienda virtual la cual ofrezca al público copias digitales de videojuegos únicamente para PC. Los cuales, al momento de la compra, estos pasen a ser propiedad del cliente y no tenga co-dependencia de la tienda para poder hacer uso del producto.
+
 
 #### Justificación y Objetivos del Proyecto
 

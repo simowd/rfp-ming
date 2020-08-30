@@ -83,3 +83,18 @@ La participación de los sponsor en fundamental para que el proyecto sea exitoso
 ### Necesidades del Negocio 
 
 La principal razón por la cual se está construyendo el sistema, es que no existe una plataforma que complazca de forma idónea a las desarrolladoras independientes. Así también, a los usuarios que están interesados en los mismos. Asimismo, las demás plataformas no proveen la atención o foros adecuados a los usuarios. 
+
+### Requerimientos de Negocio
+
+Requerimiento | Descripción | Prioridad
+------------ | ------------- | -------------
+Servicio de Atención al Cliente | Permitir responder las dudas al usuario | Media
+Seguridad | Medidas de seguridad implementadas | Alta
+Pagos | Métodos de pagos agregados para los usuarios | Alta
+Autenticación de Usuarios | Permitir a los usuarios iniciar sesión  | Alta
+Showcase de los Productos | Agregar, modificar y eliminar productos mostrados | Alta
+Acceso concurrido | La tienda virtual debe ser capaz de soportar el ingreso de varios usuarios de manera concurrente | Alta
+Disponibilidad constante | Constante disponibilidad de la plataforma | Media
+Acceso a través del navegador | El acceso a la tienda virtual debe poder realizarse desde cualquier navegador web | Alta 
+UI | El sistema debe contar con una UI amigable con el usuario y agradable a la vista | Media
+

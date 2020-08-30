@@ -1,4 +1,25 @@
 # MING - Tienda Virtual de Videojuegos
+
+## Miembros del Equipo
+**Nombre:** Avila Flores Juan Carlos  
+**Email:** juan.avila@ucb.edu.bo
+
+
+**Nombre:** Córdova Do Prado Diego Javier  
+**Email:** diego.cordova@ucb.edu.bo
+
+
+**Nombre:** Prudencio Flores Sergio Ivan  
+**Email:** sergio.prudencio@ucb.edu.bo
+
+
+**Nombre:** Martin Campuzano Flores  
+**Email:** martin.campuzano@ucb.edu.bo
+
+
+**Nombre:** Daniel Tarqui  
+**Email:** daniel.tarqui.a@ucb.edu.bo
+
 ## Descripción Corporativa 
 
 La compañía se halla compuesta por cinco desarrolladores de software. Cada proyecto de software desarrollado conlleva a una calidad mayor a la exigida por el usuario. La compañía satisface las exigencias de los clientes para una mayor satisfacción de las mismas con el software requerido. La sede de la compañía está ubicada en La Paz - Bolivia.
@@ -30,27 +51,6 @@ Se busca el desarrollo de una tienda virtual la cual ofrezca al público copias 
 #### Justificación y Objetivos del Proyecto
 
 La mayoría de tiendas virtuales que existen en la actualidad poseen un sistema de dependencia de sus productos con la tienda en general. En resumen, se puede decir que el cliente no compra los productos de estas tiendas por lo que el cliente alquila este producto. El precio de los productos se los puede comparar con sus respectivas versiones en físico el cual es el mismo monto. Sin embargo, en el caso de las versiones físicas,  el adquirirlos supone que el cliente tiene entera propiedad del producto. El proyecto de Ming propone brindar una solución a esta problemática.
-
-## Miembros del Equipo
-**Nombre:** Avila Flores Juan Carlos  
-**Email:** juan.avila@ucb.edu.bo
-
-
-**Nombre:** Córdova Do Prado Diego Javier  
-**Email:** diego.cordova@ucb.edu.bo
-
-
-**Nombre:** Prudencio Flores Sergio Ivan  
-**Email:** sergio.prudencio@ucb.edu.bo
-
-
-**Nombre:** Martin Campuzano Flores  
-**Email:** martin.campuzano@ucb.edu.bo
-
-
-**Nombre:** Daniel Tarqui  
-**Email:** daniel.tarqui.a@ucb.edu.bo
-
 
 ## Esquema de la Propuesta
 #### Descripción de los servicios.
@@ -112,6 +112,28 @@ El proyecto tiene un valor tangible proveniente del porcentaje (8%) a cobrar por
 * Legalmente puede existir un área gris respecto a los pagos online.
 * Problemas con la piratería.
 
+## Análisis de Factibilidad
+
+### Factibilidad Técnica
+
+El entorno de una tienda virtual real hace que el proyecto se pueda construir con recursos gratuitos o software libre por proveedores de servidores. El proyecto es similar a una tienda de artículos físicos sin embargo solo se venderán productos virtuales no otro producto físico. La tecnología a usar para construir el proyecto es medianamente familiar por lo que se puede tener algunos riesgos.
+Los riesgos del proyecto en base al tamaño de este, es el tiempo en implementarlo ya que es un proyecto mediano. La integración del proyecto en el mercado será complicada debido a la competencia existente.
+
+### Factibilidad Económica
+
+El costo de desarrollar esta plataforma son varios y estos son:
+
+-Costos de luz.
+-Comisión de entidades bancarias.
+-Pago a los desarrolladores.
+-Servicio de Hosting.
+-Mantenimiento de la plataforma.
+-Mantenimiento de los servidores.
+-Costo de implementación de nuevas funciones.
+-Sueldos a los integrantes de la organización.
+-Impuestos.
+
+Todos estos costos deben ser analizados y recalculados cada mes debido a que los costos varían en el transcurso del tiempo.
 
 
 

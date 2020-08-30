@@ -123,15 +123,15 @@ Los riesgos del proyecto en base al tamaño de este, es el tiempo en implementar
 
 El costo de desarrollar esta plataforma son varios y estos son:
 
--Costos de luz.
--Comisión de entidades bancarias.
--Pago a los desarrolladores.
--Servicio de Hosting.
--Mantenimiento de la plataforma.
--Mantenimiento de los servidores.
--Costo de implementación de nuevas funciones.
--Sueldos a los integrantes de la organización.
--Impuestos.
+- Costos de luz. 
+- Comisión de entidades bancarias. 
+- Pago a los desarrolladores. 
+- Servicio de Hosting. 
+- Mantenimiento de la plataforma. 
+- Mantenimiento de los servidores. 
+- Costo de implementación de nuevas funciones. 
+- Sueldos a los integrantes de la organización. 
+- Impuestos. 
 
 Todos estos costos deben ser analizados y recalculados cada mes debido a que los costos varían en el transcurso del tiempo.
 

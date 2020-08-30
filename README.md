@@ -105,12 +105,12 @@ El proyecto tiene un valor tangible proveniente del porcentaje (8%) a cobrar por
  
 ### Problemas Especiales
 
-*Los servicios de pagos y cobros podrían presentar fallas ya que se realizarán por terceros como PayPal. 
-*Los servidores gratuitos pueden causar fallos por falta de soporte del mismo.
-*El sistema tiene que estar listo y funcionando al finalizar el semestre.
-*Falta de ingresos para mantener los servidores.
-*Legalmente puede existir un área gris respecto a los pagos online.
-*Problemas con la piratería.
+* Los servicios de pagos y cobros podrían presentar fallas ya que se realizarán por terceros como PayPal.
+* Los servidores gratuitos pueden causar fallos por falta de soporte del mismo.
+* El sistema tiene que estar listo y funcionando al finalizar el semestre.
+* Falta de ingresos para mantener los servidores.
+* Legalmente puede existir un área gris respecto a los pagos online.
+* Problemas con la piratería.
 
 
 

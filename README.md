@@ -98,3 +98,20 @@ Disponibilidad constante | Constante disponibilidad de la plataforma | Media
 Acceso a través del navegador | El acceso a la tienda virtual debe poder realizarse desde cualquier navegador web | Alta 
 UI | El sistema debe contar con una UI amigable con el usuario y agradable a la vista | Media
 
+
+### Valor de Negocio 
+
+El proyecto tiene un valor tangible proveniente del porcentaje (8%) a cobrar por cada producto vendido y/o publicado por los desarrolladores o dueños del producto. El proyecto también tiene un valor intangible, mediante el cual se fomente la compra/desarrollo de títulos independientes. 
+ 
+### Problemas Especiales
+
+*Los servicios de pagos y cobros podrían presentar fallas ya que se realizarán por terceros como PayPal. 
+*Los servidores gratuitos pueden causar fallos por falta de soporte del mismo.
+*El sistema tiene que estar listo y funcionando al finalizar el semestre.
+*Falta de ingresos para mantener los servidores.
+*Legalmente puede existir un área gris respecto a los pagos online.
+*Problemas con la piratería.
+
+
+
+

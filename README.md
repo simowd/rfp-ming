@@ -74,3 +74,12 @@ Los servicios que ofrece Ming son los siguientes:
   - En el caso que el cliente elimine su cuenta de la tienda, los productos comprados que hayan sido descargados a sus máquinas son propiedad exclusiva del cliente.
   - El precio de los juego pueden tener rebajas bajo consentimiento de los desarrolladores.
 
+## Solicitud de Sistema  
+
+### Sponsor del Proyecto 
+
+La participación de los sponsor en fundamental para que el proyecto sea exitoso y se logre concluir. Entonces, los sponsor del presente proyecto serán los tutores legales de cada miembro del equipo.
+
+### Necesidades del Negocio 
+
+La principal razón por la cual se está construyendo el sistema, es que no existe una plataforma que complazca de forma idónea a las desarrolladoras independientes. Así también, a los usuarios que están interesados en los mismos. Asimismo, las demás plataformas no proveen la atención o foros adecuados a los usuarios. 

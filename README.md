@@ -110,7 +110,7 @@ El proyecto tiene un valor tangible proveniente del porcentaje (8%) a cobrar por
 * El sistema tiene que estar listo y funcionando al finalizar el semestre.
 * Falta de ingresos para mantener los servidores.
 * Legalmente puede existir un área gris respecto a los pagos online.
-* Problemas con la piratería.
+* Problemas con las copias ilícitas del software vendido (piratería).
 
 ## Análisis de Factibilidad
 
